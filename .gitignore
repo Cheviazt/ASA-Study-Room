@@ -18,18 +18,14 @@ build/
 hs_err_pid*
 replay_pid*
 
-# IntelliJ IDEA (keep shared project config, drop personal state)
-.idea/workspace.xml
-.idea/shelf/
-.idea/tasks.xml
-.idea/usage.statistics.xml
-.idea/dictionaries/
-.idea/mavenHomeManager.xml
+# IDE config
+.idea/
+.vscode/
+*.iml
 *.iws
 
-# VS Code (keep settings.json)
-.vscode/*
-!.vscode/settings.json
+# Libraries
+lib/
 
 # OS files
 .DS_Store
