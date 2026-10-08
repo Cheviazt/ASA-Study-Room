@@ -1,0 +1,37 @@
+# Compiled output
+bin/
+out/
+target/
+build/
+*.class
+
+# Packages
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Logs
+*.log
+hs_err_pid*
+replay_pid*
+
+# IntelliJ IDEA (keep shared project config, drop personal state)
+.idea/workspace.xml
+.idea/shelf/
+.idea/tasks.xml
+.idea/usage.statistics.xml
+.idea/dictionaries/
+.idea/mavenHomeManager.xml
+*.iws
+
+# VS Code (keep settings.json)
+.vscode/*
+!.vscode/settings.json
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
